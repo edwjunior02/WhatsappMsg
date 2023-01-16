@@ -1,0 +1,41 @@
+{
+"pendientes":[
+ {
+    "Nombre 1": "Nombre1 Apellido1",
+    "Nombre1_Abr": "Nombre",
+    "Nombre 2": "Nombre2 Apellido2",
+    "Tel2_RAW": "666 66 66 66",
+    "Tel2": "666666666",
+    "Nombre2_Abr": "Nombre2"
+ },
+ {
+    "Nombre 1": "Nombre1 Apellido1",
+    "Tel_RAW": "600 00 00 00",
+    "Tel1": "600000000",
+    "Nombre1_Abr": "Nombre1",
+    "Nomb re 2": "Nombre2",
+    "Tel2": "",
+    "Nombre2_Abr": "Nombre2"
+}
+
+]
+,"participantes":[
+{
+    "Nombre 1": "Nombre1 Apellido1",
+    "Nombre1_Abr": "Nombre",
+    "Nombre 2": "Nombre2 Apellido2",
+    "Tel2_RAW": "666 66 66 66",
+    "Tel2": "666666666",
+    "Nombre2_Abr": "Nombre2"
+},
+{
+    "Nombre 1": "Nombre1 Apellido1",
+    "Tel_RAW": "600 00 00 00",
+    "Tel1": "600000000",
+    "Nombre1_Abr": "Nombre1",
+    "Nomb re 2": "Nombre2",
+    "Tel2": "",
+    "Nombre2_Abr": "Nombre2"
+}
+]
+}
